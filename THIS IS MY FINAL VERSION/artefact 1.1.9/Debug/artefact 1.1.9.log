@@ -1,0 +1,14 @@
+﻿  artefact 1.1.9.cpp
+  gamePiece.cpp
+  gameBoard.cpp
+D:\Uni Work\Year 1\TB2\TOGA\Final Files\final final files\C++ code\THIS IS MY FINAL VERSION\artefact 1.1.9\gameBoard.cpp(92,39): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Uni Work\Year 1\TB2\TOGA\Final Files\final final files\C++ code\THIS IS MY FINAL VERSION\artefact 1.1.9\gameBoard.cpp(94,40): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Game.cpp
+D:\Uni Work\Year 1\TB2\TOGA\Final Files\final final files\C++ code\THIS IS MY FINAL VERSION\artefact 1.1.9\Game.cpp(145,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Uni Work\Year 1\TB2\TOGA\Final Files\final final files\C++ code\THIS IS MY FINAL VERSION\artefact 1.1.9\Game.cpp(145,56): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Uni Work\Year 1\TB2\TOGA\Final Files\final final files\C++ code\THIS IS MY FINAL VERSION\artefact 1.1.9\Game.cpp(147,90): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Uni Work\Year 1\TB2\TOGA\Final Files\final final files\C++ code\THIS IS MY FINAL VERSION\artefact 1.1.9\Game.cpp(147,188): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Uni Work\Year 1\TB2\TOGA\Final Files\final final files\C++ code\THIS IS MY FINAL VERSION\artefact 1.1.9\Game.cpp(157,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Generating Code...
+D:\Uni Work\Year 1\TB2\TOGA\Final Files\final final files\C++ code\THIS IS MY FINAL VERSION\artefact 1.1.9\gameBoard.cpp(99): warning C4715: 'gameBoard::checkAllSquares': not all control paths return a value
+  artefact 1.1.9.vcxproj -> D:\Uni Work\Year 1\TB2\TOGA\Final Files\final final files\C++ code\THIS IS MY FINAL VERSION\Debug\artefact 1.1.9.exe
